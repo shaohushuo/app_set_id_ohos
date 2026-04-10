@@ -1,6 +1,6 @@
 name: app_set_id_ohos
 description: "app_set_id plugin for ohos"
-version: 1.3.0
+version: 1.4.0
 homepage: https://github.com/shaohushuo/app_set_id_ohos
 
 environment:

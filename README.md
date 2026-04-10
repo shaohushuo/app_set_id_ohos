@@ -28,7 +28,7 @@
 ```yaml
 dependencies:
   app_set_id: ^1.4.0      # 主包，提供统一的 API 接口
-  app_set_id_ohos: ^1.3.0 # 鸿蒙平台实现
+  app_set_id_ohos: ^1.4.0 # 鸿蒙平台实现
 ```
 
 ### 2. 权限配置
