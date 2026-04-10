@@ -1,3 +1,3 @@
-## 0.0.1
+## 1.3.0
 
-* TODO: Describe initial release.
+* 鸿蒙平台适配
