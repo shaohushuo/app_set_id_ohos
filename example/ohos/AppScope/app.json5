@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "nl.u2312.app_set_id.app_set_id_ohos_example",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name"
+  }
+}

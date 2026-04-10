@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "app_set_id_ohos_example"
+    },
+    {
+      "name": "app_tracking_permission_reason",
+      "value": "获取 OAID 设备标识符"
+    }
+  ]
+}

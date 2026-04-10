@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "app_set_id_ohos",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
