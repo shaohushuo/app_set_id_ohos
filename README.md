@@ -27,8 +27,8 @@
 
 ```yaml
 dependencies:
-  app_set_id: ^1.0.0      # 主包，提供统一的 API 接口
-  app_set_id_ohos: ^1.0.0 # 鸿蒙平台实现
+  app_set_id: ^1.4.0      # 主包，提供统一的 API 接口
+  app_set_id_ohos: ^1.3.0 # 鸿蒙平台实现
 ```
 
 ### 2. 权限配置
@@ -243,27 +243,6 @@ flutter run
 - [app_set_id 主包](https://pub.dev/packages/app_set_id)
 - [Flutter 插件开发文档](https://docs.flutter.dev/development/packages-and-plugins/developing-packages)
 - [鸿蒙 OAID 开发指南](https://developer.huawei.com/consumer/cn/doc/HMSCore-Guides/oaid-0000001050783198)
-
-## 常见问题
-
-### Q: 为什么获取 OAID 返回 null？
-
-A: 可能的原因有：
-1. 用户拒绝了权限申请
-2. 设备不支持 OAID
-3. 未正确配置 Ads Kit 依赖
-
-### Q: 如何在真机上测试？
-
-A: 需要在真机上运行，模拟器可能无法获取到有效的 OAID。
-
-### Q: 是否需要同时安装 app_set_id 和 app_set_id_ohos？
-
-A: 是的，`app_set_id` 提供统一的 Dart API 接口，`app_set_id_ohos` 提供鸿蒙平台的原生实现。
-
-## 许可证
-
-Apache-2.0 License
 
 ## 贡献
 
