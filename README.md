@@ -243,7 +243,6 @@ flutter run
 - [app_set_id 主包](https://pub.dev/packages/app_set_id)
 - [Flutter 插件开发文档](https://docs.flutter.dev/development/packages-and-plugins/developing-packages)
 - [鸿蒙 OAID 开发指南](https://developer.huawei.com/consumer/cn/doc/HMSCore-Guides/oaid-0000001050783198)
-- [鸿蒙 Ads Kit 文档](https://developer.huawei.com/consumer/cn/doc/AdsKit-Guides)
 
 ## 常见问题
 
